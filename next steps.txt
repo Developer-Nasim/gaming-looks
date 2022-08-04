@@ -1,5 +1,0 @@
-1. landing page only header, login
-1. home screen
-3. training page
-4. details play/start
-5. 
