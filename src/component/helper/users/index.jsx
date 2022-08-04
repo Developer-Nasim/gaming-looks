@@ -1,5 +1,4 @@
-import React from "react";
-import Polygon from "../../../imgs/Polygon.png"; 
+import React from "react"; 
 import './style.css';
 
 

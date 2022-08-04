@@ -205,7 +205,7 @@ header {
     margin-right: 10px;
 }
 
-.lbl_mltn:after {
+/* .lbl_mltn:after {
     content: "";
     width: 1px;
     height: 100%;
@@ -213,7 +213,7 @@ header {
     left: 47%;
     top: 0;
     background: #4D4D4D;
-}
+} */
 a.issue_btn {
     height: 60px;
     width: 240px;

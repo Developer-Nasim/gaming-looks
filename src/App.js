@@ -1,5 +1,5 @@
 import React from "react";
-import IssuePage from "./component/issue/issue" 
+import IssuePage from "./component/pages/issue/index" 
 
 
 function App() {

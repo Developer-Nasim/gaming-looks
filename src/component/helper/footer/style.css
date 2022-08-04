@@ -55,3 +55,9 @@ footer p.copyrights {
     text-align: center;
     letter-spacing: 0.05em;
 }
+p.copyrightNew {
+    text-align: center;
+    font-size: 15px;
+}
+
+p.copyrightNew a {color: #FF8F17;}

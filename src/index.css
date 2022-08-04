@@ -4,21 +4,21 @@
 @font-face {
   font-family: RedRose;
   font-weight: 700;
-  src: url(./font/RedRose-Bold.ttf);
+  src: url(./assets/font/RedRose-Bold.ttf);
 }
 @font-face {
   font-family: RedRose;
   font-weight: 400;
-  src: url(./font/RedRose-Regular.ttf);
+  src: url(./assets/font/RedRose-Regular.ttf);
 }
 @font-face {
   font-family: RedRose;
   font-weight: 300;
-  src: url(./font/RedRose-Light.otf);
+  src: url(./assets/font/RedRose-Light.otf);
 }
 @font-face {
   font-family: Impact;
-  src: url(./font/impact.ttf);
+  src: url(./assets/font/impact.ttf);
 }
 body {
   font-family: RedRose;

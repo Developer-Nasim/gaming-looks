@@ -1,11 +1,8 @@
 import React from "react";
-import logo from "../../../imgs/logo.svg";
-import filterSVG from "../../../imgs/filter.svg";
-import DownArrow from "../../../imgs/down-arrow.svg";
-import Notif from "../../../imgs/notif.svg";
-import AddMore from "../../../imgs/add.svg"; 
-// import Avatar from "../../../imgs/avatar.png";
-import Avatar from "../../../imgs/avatar.jfif"
+import logo from "../../../assets/imgs/logo.svg"; 
+import DownArrow from "../../../assets/imgs/down-arrow.svg";
+import Notif from "../../../assets/imgs/notif.svg";  
+import Avatar from "../../../assets/imgs/avatar.jfif"
 import './style.css';
 
 
@@ -17,29 +14,19 @@ function Header() {
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="logo">
-                            <a href="#"><img src={logo} alt="" /></a>
-                            <label htmlFor="">
-                                <input type="text" placeholder="Search" />
-                                <img src={filterSVG} alt="" />
-                            </label>
+                            <a href="#"><img src={logo} alt="" /></a> 
                         </div>
                     </div>
                     <div className="col-lg-8">
                         <div className="menus">
                             <ul>
-                                <li><a href="#">Pull Requests</a></li>
-                                <li><a href="#">Issues</a></li>
-                                <li><a href="#">Marketplace</a></li>
-                                <li><a href="#">Explore</a></li>
+                                <li><a href="#">playground</a></li>
                             </ul>
                             <div className="header-actions">
                                 <div className="actionBtns"> 
                                     <div className="notif">
                                         <img src={Notif} alt="" />
-                                    </div>
-                                    <div className="addSmt">
-                                        <img src={AddMore} alt="" />
-                                    </div>
+                                    </div> 
                                 </div>
                                 <div className="avtar">
                                     <div className="profile-btn"> 
